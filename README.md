@@ -23,3 +23,6 @@ Ambos métodos ofrecieron resultados consistentes y satisfactorios, logrando red
 
 - **pictures:**  
   Carpeta que incluye la imagen de prueba utilizada en los experimentos, junto con las versiones comprimidas generadas mediante ambos enfoques.
+
+- **reporte.pdf:**
+  Documento donde se reportan los resultados obtenidos.
