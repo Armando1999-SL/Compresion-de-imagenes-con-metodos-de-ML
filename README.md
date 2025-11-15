@@ -28,8 +28,8 @@ Ambos métodos ofrecieron resultados consistentes y satisfactorios, logrando red
   Documento donde se reportan los resultados obtenidos.
 
 
-**Usando PCA**
+**Usando PCA (distintos componentes CP)**
 ![](pictures/pca-tucan.png)
 
-**Usando k-means**
+**Usando k-means (distintos grupos G)**
 ![](pictures/kmeans-tucan.png)
