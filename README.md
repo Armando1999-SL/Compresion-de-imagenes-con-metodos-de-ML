@@ -26,3 +26,10 @@ Ambos métodos ofrecieron resultados consistentes y satisfactorios, logrando red
 
 - **reporte.pdf:**
   Documento donde se reportan los resultados obtenidos.
+
+
+**Usando PCA**
+![](pictures/pca-tucan.png)
+
+**Usando k-means**
+![](pictures/kmeans-tucan.png)
